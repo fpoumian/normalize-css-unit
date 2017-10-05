@@ -57,4 +57,4 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 
 ## License
 
-MIT &copy; [Fernando Poumián](https://halfelectronic.com)
+MIT &copy; [Fernando Poumián](https://github.com/fpoumian)

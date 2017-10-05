@@ -10,7 +10,7 @@
   "author": {
     "name": "Fernando Poumián",
     "email": "fpoumian@gmail.com",
-    "url": "https://www.halfelectronic.com"
+    "url": "https://github.com/fpoumian"
   },
   "engines": {
     "node": ">=4",
@@ -79,6 +79,13 @@
     "semantic-release": "^8.0.3"
   },
   "keywords": [
-    "🐰"
+    "css",
+    "unit",
+    "validate",
+    "pixels",
+    "px",
+    "rem",
+    "em",
+    "length"
   ]
 }
