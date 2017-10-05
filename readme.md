@@ -25,10 +25,13 @@ npm install --save normalize-css-unit
 ## Usage
 
 ```js
-import normalizeCssUnit from 'normalize-css-unit';
+import normalizeCSSUnit from 'normalize-css-unit';
 
-normalizeCssUnit('🐰');
-//=> '👉 🐰 👈'
+normalizeCSSUnit(100);
+//=> '100px'
+
+normalizeCSSUnit('100rem ');
+//=> '100rem'
 ```
 
 ## FAQ
