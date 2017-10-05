@@ -1,0 +1,22 @@
+{
+  "projectName": "normalize-css-unit",
+  "projectOwner": "fpoumian",
+  "files": [
+    "readme.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "fpoumian",
+      "name": "Fernando Poumián",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22868432?v=3",
+      "profile": "https://github.com/fpoumian",
+      "contributions": [
+        "code",
+        "doc",
+        "infra"
+      ]
+    }
+  ]
+}
